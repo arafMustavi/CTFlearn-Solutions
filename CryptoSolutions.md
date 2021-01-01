@@ -46,6 +46,70 @@ Solution Approach :
 
 Pythonic Solution : 
 
-```flag = hex(0xc4115^0x4cf8)```
+```
+flag = hex(0xc4115^0x4cf8)
+```
 
 **The Flag is : CTFlearn{0xc0ded}**
+
+******************************************************************
+Problem Name : Base 2 2 the 6
+
+Problem Link : https://ctflearn.com/challenge/192
+
+Problem Description : here are so many different ways of encoding and decoding information nowadays... One of them will work! Q1RGe0ZsYWdneVdhZ2d5UmFnZ3l9
+
+	
+Solution Approach :
+
+- The Clue is in the name: Base 2 2 the 6 means BASE 2 ^ 6 which is base 64
+- You have to find the base64 text's ASCII value
+
+Web Link to decipher:
+
+https://www.base64decode.org/
+
+
+**The Flag is : CTF{FlaggyWaggyRaggy}**
+
+******************************************************************
+Problem Name : Reverse Polarity
+
+Problem Link : https://ctflearn.com/challenge/230
+
+Problem Description :  I got a new hard drive just to hold my flag, but I'm afraid that it rotted. What do I do? The only thing I could get off of it was this: 01000011010101000100011001111011010000100110100101110100010111110100011001101100011010010111000001110000011010010110111001111101
+	
+Solution Approach :
+
+- Convert the Binary String to ASCII Value
+
+Web Link to decipher:
+
+https://www.rapidtables.com/convert/number/binary-to-ascii.html
+
+**The Flag is : CTF{Bit_Flippin}**
+
+******************************************************************
+Problem Name : Vigenere Cipher
+
+Problem Link : https://ctflearn.com/challenge/305
+
+
+Web Link to decipher:
+
+https://www.dcode.fr/vigenere-cipher
+
+**The Flag is : flag{CiphersAreAwesome}**
+
+******************************************************************
+Problem Name : 
+
+Problem Link : 
+
+Problem Description : 
+
+Solution Approach :
+
+Web Link to decipher:
+
+**The Flag is :**
