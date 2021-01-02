@@ -101,6 +101,35 @@ https://www.dcode.fr/vigenere-cipher
 
 **The Flag is : flag{CiphersAreAwesome}**
 
+
+******************************************************************
+Problem Name : Modern Gaius Julius Caesar
+
+Problem Link : https://ctflearn.com/challenge/885
+
+Problem Description : One of the easiest and earliest known ciphers but with XXI century twist! Nobody uses Alphabet nowadays right? Why should you when you have your keyboard?
+
+BUH'tdy,|Bim5y~Bdt76yQ
+
+Solution Approach :
+- Look into your keyboard
+- The Flag Starts with B and C is just 2 left shift.
+- Shift all the Characters
+
+**The Flag is : CTFlearn{Cyb3r_Cae54r}**
+
+******************************************************************
+Problem Name : Morse Code
+
+Problem Link : 
+
+Problem Description : 
+..-. .-.. .- --. ... .- -- ..- . .-.. -- --- .-. ... . .. ... -.-. --- --- .-.. -... -.-- - .... . .-- .- -.-- .. .-.. .. -.- . -.-. .... . . ...
+
+Web Link to decipher: https://morsecode.world/international/translator.html
+
+**The Flag is : {FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES}**
+
 ******************************************************************
 Problem Name : 
 
@@ -112,4 +141,4 @@ Solution Approach :
 
 Web Link to decipher:
 
-**The Flag is :**
+**The Flag is : **
