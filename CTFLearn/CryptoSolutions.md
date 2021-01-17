@@ -131,6 +131,21 @@ Web Link to decipher: https://morsecode.world/international/translator.html
 **The Flag is : {FLAGSAMUELMORSEISCOOLBYTHEWAYILIKECHEES}**
 
 ******************************************************************
+Problem Name : So many 64s
+
+Problem Link : https://ctflearn.com/challenge/121
+
+Problem Description : 
+Help! My friend stole my flashdrive that had the flag on it. When he gave it back the flag was changed! Can you help me decrypt it? https://mega.nz/#!OHhUyIqA!H9WxSdG1O7eVcCm0dffggNB0-dBemSpBAXiZ0OXJnLk
+
+Solution Approach :
+Continue Repeatative base-64 to ASCII Conversion
+
+Web Link to decipher: https://gchq.github.io/CyberChef/
+
+**The Flag is : *ABCTF{pr3tty_b4s1c_r1ght?}*
+******************************************************************
+
 Problem Name : 
 
 Problem Link : 
