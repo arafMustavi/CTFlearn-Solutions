@@ -1,0 +1,29 @@
+Problem Name : Don't be salty 20
+
+Problem Link : https://ctf.brixel.space/challenges#Don't%20be%20salty-25
+
+Problem Description: Our l33t hackers hacked a bulletin board and gained access to the database. We need to find the admin password.
+
+The user's database info is:
+
+Username:admin
+
+Passwordhash:2bafea54caf6f8d718be0f234793a9be
+
+Salt:04532@#!!
+
+We know from the source code that the salt is put AFTER the password, then hashed. We also know the user likes to use lowercase passwords of only 5 characters long.
+
+The flag is the plaintext password.
+
+This flag is not in the usual format, you can enter it with or without the brixelCTF{flag} format
+
+
+Solution Approach:
+
+
+1) Generate All Possible 5 Length Strings [ https://www.geeksforgeeks.org/print-all-combinations-of-given-length/]
+
+2) Concate and Hash [ https://www.geeksforgeeks.org/sha-in-python/]
+
+3) Compare with the Hashed Value which one matches
