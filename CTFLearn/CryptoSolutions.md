@@ -158,6 +158,21 @@ CodeChef's BruteXOR should be enough
 Web Link to decipher: https://gchq.github.io/CyberChef/#recipe=XOR_Brute_Force(1,100,0,'Standard',false,true,false,'')&input=cXt2cGxuJ2JIX3Zhckh1ZWJjcnF4ZXRySE9YRWo
 
 **The Flag is : flag{y0u_Have_bruteforce_XOR}**
+******************************************************************
+Problem Name : Substitution Cipher
+
+Problem Link : https://ctflearn.com/challenge/238
+
+Problem Description : 
+Someone gave me this, but I haven't the slightest idea as to what it says! https://mega.nz/#!iCBz2IIL!B7292dJSx1PGXoWhd9oFLk2g0NFqGApBaItI_2Gsp9w Figure it out for me, will ya?
+
+
+Solution Approach :
+Bruteforce Solution for the Substitution Cipher
+
+Web Link to decipher: https://www.quipqiup.com/
+
+**The Flag is : CTFlearn{IFONLYMODERNCRYPTOWASLIKETHIS}**
 
 
 
