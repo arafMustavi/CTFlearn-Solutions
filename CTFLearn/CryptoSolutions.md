@@ -145,6 +145,21 @@ Web Link to decipher: https://gchq.github.io/CyberChef/
 
 **The Flag is : *ABCTF{pr3tty_b4s1c_r1ght?}*
 ******************************************************************
+Problem Name : BruXOR
+
+Problem Link : https://ctflearn.com/challenge/227
+
+Problem Description : 
+There is a technique called bruteforce. Message: q{vpln'bH_varHuebcrqxetrHOXEj No key! Just brute .. brute .. brute ... :D
+
+Solution Approach :
+CodeChef's BruteXOR should be enough
+
+Web Link to decipher: https://gchq.github.io/CyberChef/#recipe=XOR_Brute_Force(1,100,0,'Standard',false,true,false,'')&input=cXt2cGxuJ2JIX3Zhckh1ZWJjcnF4ZXRySE9YRWo
+
+**The Flag is : flag{y0u_Have_bruteforce_XOR}**
+
+
 
 Problem Name : 
 
